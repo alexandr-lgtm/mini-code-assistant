@@ -1,0 +1,19 @@
+Third-party material in Mini — Code Assistant
+=============================================
+
+Character artwork (hooks/characters/*.ts)
+-----------------------------------------
+The 20 robot characters are SVG drawings generated with the "Bottts" style of
+DiceBear (https://www.dicebear.com/styles/bottts/).
+
+  Bottts design: Pablo Stanley — https://bottts.com/
+  Terms: "Free for personal and commercial use" (as published by the author
+  and listed at https://www.dicebear.com/licenses/).
+
+The artwork is not covered by this plugin's MIT License. Each generated SVG
+keeps its original license metadata.
+
+DiceBear (used only by tools/generate-characters.cjs, not at run time)
+---------------------------------------------------------------------
+  @dicebear/core, @dicebear/collection — MIT License
+  Copyright (c) Florian Körner — https://github.com/dicebear/dicebear

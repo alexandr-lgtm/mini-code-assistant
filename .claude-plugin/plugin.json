@@ -1,0 +1,10 @@
+{
+  "name": "mini-code-assistant",
+  "displayName": "Mini — Code Assistant",
+  "version": "1.0.0",
+  "description": "A companion pane for Claude Code: an animated robot that follows the agent, suggests what to do next, answers quick replies, spots loops, plans the work and runs your tests.",
+  "author": { "name": "Aleksandr Porkulevic" },
+  "license": "MIT",
+  "keywords": ["companion", "pane", "assistant", "next-steps", "planning", "tests"],
+  "types": "./types/index.d.ts"
+}

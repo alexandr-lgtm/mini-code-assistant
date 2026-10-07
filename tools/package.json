@@ -1,0 +1,7 @@
+{
+  "name": "mini-code-assistant-tools",
+  "private": true,
+  "description": "Regenerates hooks/characters from DiceBear Bottts. Not needed at run time.",
+  "scripts": { "characters": "node generate-characters.cjs" },
+  "devDependencies": { "@dicebear/core": "9.4.3", "@dicebear/collection": "9.4.2" }
+}
